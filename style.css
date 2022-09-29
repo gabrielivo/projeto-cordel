@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fredoka+One&family=Sriracha&display=swap');
+
+header{
+    background-color: black;
+    color:aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-family:'Fredoka One', cursive;
+    font-size: 2.3em;
+}
+
+body{
+    margin: 0%;
+}
+
+a{
+    
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.poesia{
+    margin-left: 44px;
+    font-size: x-large;
+   padding-bottom: 20px;
+   font-family:'Sriracha', cursive;
+}
+.poesiaft{
+    margin: 18px 0px 0px 10px ;
+    font-size: x-large;
+   padding-bottom: 20px;
+   font-family:'Sriracha', cursive;
+
+}
+
+#first{
+    background: aliceblue url(imagens/background001.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+    
+.sec{
+    color: aliceblue;
+    padding: 5px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.459);
+    margin: 45px 0px 45px 25px;
+    
+}
+#ter{
+    background: aliceblue url(imagens/background002.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+footer{
+    background-color: black;
+    height: 40px;
+    color: aliceblue;
+    height: 42px;
+}
+h2{
+    text-align: center;
+    font-family:'Sriracha', cursive;
+}
